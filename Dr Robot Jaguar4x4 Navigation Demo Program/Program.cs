@@ -17,6 +17,13 @@ namespace DrRobot.IMUGPSNavigation
         [STAThread]
         static void Main()
         {
+            const double D2R = Math.PI / 180;
+            double dis2TargetTH = 1.0;      //
+            double dis2PathTH = 0.2;
+            double drvAngleTH = 5 * D2R;
+            double drvThrottle = 0.9; // drive max PWM, 1-- full PWM
+            const double WHEEL4X4_ADJT = 0.5;//heavy 1.5
+            double adjT = WHEEL4X4_ADJT;
             RobotConfig.RobotConfigTableRow jaguarSetting = null;
             DrRobotComm drRobotComm1 = null;
             RobotConfig robotConfig = new RobotConfig();
@@ -61,6 +68,12 @@ namespace DrRobot.IMUGPSNavigation
             DrRobotIMUGPSNavigationDemo.SetDrvParameter(dis2TargetTH, dis2PathTH, drvAngleTH);
             // set some parameters
             DrRobotIMUGPSNavigationDemo.SetGPSPositionUpdateParameter(0.5, 2.0);//2.0*/
+            drRobotComm1.SendCommand("MMW !MG");
+            drRobotComm1.SendCommand("MMW !M 200 -200");
+            Thread.Sleep(1000);
+            drRobotComm1.SendCommand("MMW M 0 0");
+
+            drRobotComm1.Close();
 
         }
 
