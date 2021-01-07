@@ -20,3 +20,23 @@ C:\Users\woutj\Documents\robot\Dr Robot Jaguar4x4 Navigation Demo Program\Dr Rob
 C:\Users\woutj\Documents\robot\Dr Robot Jaguar4x4 Navigation Demo Program\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\DrRobotIMUGPSNavigation.csproj.CopyComplete
 C:\Users\woutj\Documents\robot\Dr Robot Jaguar4x4 Navigation Demo Program\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\DrRobotIMUGPSNavigation4x4.exe
 C:\Users\woutj\Documents\robot\Dr Robot Jaguar4x4 Navigation Demo Program\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\DrRobotIMUGPSNavigation4x4.pdb
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\DrRobotIMUGPSNavigation.csprojAssemblyReference.cache
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\Interop.stdole.dll
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\DrRobotIMUGPSNavigation.csproj.ResolveComReference.cache
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\DrRobot.IMUGPSNavigation.Properties.Resources.resources
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\DrRobotIMUGPSNavigation.csproj.GenerateResource.cache
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\DrRobotIMUGPSNavigation.csproj.CoreCompileInputs.cache
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\DrRobotIMUGPSNavigation4x4.exe
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\DrRobotIMUGPSNavigation4x4.pdb
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\bin\Debug\DrRobotIMUGPSDCM.dll
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\bin\Debug\DrRobotIMUGPSNavigation4x4.exe
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\bin\Debug\DrRobotIMUGPSNavigation4x4.pdb
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\bin\Debug\AxInterop.AXISMEDIACONTROLLib.dll
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\bin\Debug\AxInterop.DRROBOTSentinelCONTROLLib.DLL
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\bin\Debug\Interop.AXISMEDIACONTROLLib.dll
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\bin\Debug\Interop.EARTHLib.dll
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\bin\Debug\Microsoft.DirectX.DirectInput.dll
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\bin\Debug\Microsoft.DirectX.dll
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\bin\Debug\Interop.DRROBOTSentinelCONTROLLib.dll
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\bin\Debug\Interop.stdole.dll
+D:\Github\CodeRobot\Dr Robot Jaguar4x4 Navigation Demo Program\obj\Debug\DrRobotIMUGPSNavigation.csproj.CopyComplete

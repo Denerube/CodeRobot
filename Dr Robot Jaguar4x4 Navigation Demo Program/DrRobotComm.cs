@@ -44,9 +44,8 @@ namespace DrRobot.IMUGPSNavigation
         private DrRobotIMUGPSNavigationDemo _form;
         private string comID = "MOT1";
 
-        public DrRobotComm(DrRobotIMUGPSNavigationDemo form, string id)
+        public DrRobotComm(string id)
         {
-            _form = form;
             comID = id;
         }
 
@@ -257,10 +256,6 @@ namespace DrRobot.IMUGPSNavigation
                     _form.UpdateACkMsg(comID + "INVALID");
             }
             */
-            if (recStr.Length > 0)
-            {
-                _form.UpdateRcvDataMsg(comID + recStr);
-            }
 
         }
 
